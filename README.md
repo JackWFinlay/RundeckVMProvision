@@ -17,3 +17,5 @@ VagrantFile and Shell script to create CentOS VM, provisioned with Java and RunD
 4. Start the VM:
 
   <pre><code>vagrant up</code></pre>
+  
+Vagrant will launch the CentOS box and provision it as per the provisioning script.
