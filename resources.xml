@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <node name="Windows" description="A windows server node." tags="win" 
+    hostname="54.206.69.87" username="Administrator" >
+  </node>
+</project>
